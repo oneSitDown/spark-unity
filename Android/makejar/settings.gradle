@@ -1,0 +1,2 @@
+rootProject.name = "jarTest"
+include ':mylibrary'
